@@ -1,0 +1,54 @@
+body{
+    background-size: 5000px;
+}
+.he{
+    font-weight: bold;
+    font-family: Frutiger;
+    font-style: italic;
+    font-size:50px;
+    color:whitesmoke;
+    margin-top: 1px;
+    border:none;
+}
+.rate{
+    color:white;
+    font-weight:initial;
+    font-size: 15px;
+    padding-left: 7px;
+    text-decoration: none;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+}
+.rate2
+{
+    color:white;
+    font-weight:initial;
+    font-size: 15px;
+    padding-left: 7px;
+    text-decoration: none;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.rate3{
+    color:white;
+    font-weight:initial;
+    font-size: 15px;
+    padding-left: 7px;
+    text-decoration: none;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.p1{
+    float:right;
+    padding-right: 12px;
+}
+a:hover{
+    background-color:burlywood;
+    color: yellow;
+    font-family:'Baumans';font-size: 19px;
+    padding-right:5px;
+    transition: 0.5s ease-in-out;
+    
+}
+a{
+    color:rosybrown;
+    
+}
